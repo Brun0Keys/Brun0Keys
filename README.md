@@ -12,7 +12,7 @@ I am a Front End developer, passionate about learning and creating new projects.
 - 👯 I’m looking to collaborate on: Projects involving JavaScript and React, especially focused on building interactive and dynamic interfaces.
 - 🤔 I’m looking for help with: Enhancing my knowledge in automated testing and performance optimization in web applications.
 - 💬 Ask me about: Front End development, Jiu-Jitsu, or anything related to learning new skills.
-- 📫 How to reach me: You can find me on https://www.linkedin.com/in/bruno-lima-600288228 or email me at chavesquimico@gmail.com
+- 📫 How to reach me: You can find me on https://www.linkedin.com/in/bruno-lima-chaves/ or email me at bruno.lima.chv@gmail.com
 - ⚡ Fun fact: Besides programming, I practice Jiu-Jitsu and love tackling challenges that involve solving problems, both on the mat and in the code.
 
   [![Stats](https://github-readme-stats.vercel.app/api?username=Brun0Keys)](https://github.com/anuraghazra/github-readme-stats)
